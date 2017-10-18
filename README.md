@@ -1,6 +1,6 @@
 # Scikit-Models-Random-Forest-SGD-Classifier
 
-Supervised Machine Learning method to classify short conversations extracted from Reddit
+Supervised Machine Learning methods to classify short conversations extracted from Reddit
 - 8 Classes based on conversation topics (Hockey, Movies, NBA, News, NFL, Politics, Soccer and WorldNews)
 
 Data Cleaning and Feature Extraction:
